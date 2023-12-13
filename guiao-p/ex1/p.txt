@@ -1,0 +1,4 @@
+print "Bom dia!" //escreve
+t1: "Miguel"
+print t1
+
